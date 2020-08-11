@@ -1,1 +1,1 @@
-# Alaram_Clock_using_Verilog
+# Alarm_Clock_using_Verilog
